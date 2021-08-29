@@ -1,2 +1,3 @@
 # operations_research_notebook
-test
+关于运筹学的一些笔记和PPT，以及之后有可能加入的一些实验项目。
+目前只更新了部分整数规划的部分。
